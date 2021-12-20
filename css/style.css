@@ -1,3 +1,21 @@
-.margin-carousel {
+.padding {
     padding-top: 5vh;
+}
+
+.carouselPhoto {    
+    margin-top: 5vh;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
+
+.main-wrapper {
+    background-color: rgb(97, 97, 97);
+}
+
+.wrapper-whoami {
+    background-color: white;
 }
